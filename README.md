@@ -30,7 +30,7 @@ This React  project empowered me to use several different technologies i have ne
 - Use a terminal and go to **First React Project** paste
 - Run the command **yarn**
 - Run **yarn dev**
-- Open the file **index** at **First React Project\public
+- Open the file **index** at **First React Project\public**
 
 
 ## License
